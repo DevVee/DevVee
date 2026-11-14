@@ -76,10 +76,10 @@ I'm a full-stack developer from Balayan, Batangas. I build web and mobile apps e
 |:--|:--|:--|
 | [**Melo**](https://melo-resume.vercel.app) | AI resume builder with ATS analysis, job matching and 20+ templates | React · TypeScript · Supabase |
 | [**HomeFixer**](https://homefixer-web.vercel.app) | Marketplace connecting homeowners with verified service pros | Next.js · TypeScript · Supabase |
-| [**TenPOS**](https://github.com/DevVee/TenPOS) | Point of sale with a web dashboard and companion mobile app | React · React Native · Supabase |
-| [**TenPayroll**](https://github.com/DevVee/TenPayroll-demo) | HR and payroll compliant with SSS, PhilHealth, Pag-IBIG and BIR | React · TypeScript · Supabase |
-| [**Veltrix**](https://github.com/DevVee/Veltrix) | Kiosk attendance tracking with automated payroll | React · TypeScript · Supabase |
-| [**GradNet**](https://github.com/DevVee/GradNet) | Alumni network for Immaculate Conception College of Balayan | Laravel · PostgreSQL |
+| [**TenPOS**](https://github.com/arveeavena/TenPOS) | Point of sale with a web dashboard and companion mobile app | React · React Native · Supabase |
+| [**TenPayroll**](https://github.com/arveeavena/TenPayroll-demo) | HR and payroll compliant with SSS, PhilHealth, Pag-IBIG and BIR | React · TypeScript · Supabase |
+| [**Veltrix**](https://github.com/arveeavena/Veltrix) | Kiosk attendance tracking with automated payroll | React · TypeScript · Supabase |
+| [**GradNet**](https://github.com/arveeavena/GradNet) | Alumni network for Immaculate Conception College of Balayan | Laravel · PostgreSQL |
 
 ### Experience
 
